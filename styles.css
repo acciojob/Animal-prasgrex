@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+main{
+	background-color:grey;
+	border-radius:10px;
+}
+
+h1{
+	text-align:center;
+	color:white;
+}
+
+div{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+img{
+	margin:10px;
+	border-radius:20px;
+}
